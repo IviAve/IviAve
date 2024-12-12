@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IviAve
+- 👋 Hi, I’m @Ivelina Deneva
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on ...
