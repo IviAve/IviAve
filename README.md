@@ -1,11 +1,10 @@
 
-
-- <h1 align="center">Hi 👋, I'm Iva Deneva</h1>
+<h1 align="center">Hi 👋, I'm Iva Deneva </h1>
 <h3 align="center">A passionate learner in IT and QA</h3>
 
 - 🌱 I’m currently learning **React, Angular, QA testing**  
 - 👨‍💻 My projects are available at [GitHub](https://github.com/YOUR_USERNAME)  
-- 📫 How to reach me: **your.email@example.com**  
+- 📫 How to reach me: **denevaiva79@gmail.com**  
 
 ---
 
@@ -41,10 +40,25 @@
 
 <h3 align="left">GitHub Stats:</h3>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact" alt="YOUR_USERNAME" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IviAve&show_icons=true&locale=en&layout=compact" alt="IVIAVE" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en" alt="YOUR_USERNAME" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=IviAve&show_icons=true&locale=en" alt="IVIAVE" />
+</p>
 
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IviAve&" alt="IviAve" />
+</p>
+
+---
+
+<h3 align="left">Profile Visitors:</h3>  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=IviAve&label=Profile%20views&color=0e75b6&style=flat" alt="IviAve" />
+</p>
 
 
 My resume https://bold.pro/my/ivelina-mitkovadeneva-250918123938
